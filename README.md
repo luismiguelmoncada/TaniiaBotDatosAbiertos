@@ -10,7 +10,8 @@ Bot conversacional inteligente impulsado por GPT-4 que funciona como asistente v
 
 Taniia Bot es un agente conversacional basado en IA diseñado específicamente para el sector turístico de Chiquinquirá, Colombia pero expandible a todas las regiones. Utiliza GPT-4 de OpenAI para procesar lenguaje natural y Elasticsearch para búsquedas semánticas, ofreciendo respuestas contextuales e inteligentes sobre hoteles, restaurantes, sitios turísticos y más.
 
-
+Su base principal de informmación son más de 50 mil datos abiertos de lugares turisticos registrados en Datos Abiertos Colombia. 
+https://www.datos.gov.co/
 
 ### ✨ Características Principales
 
