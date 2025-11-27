@@ -315,15 +315,15 @@ Taniia: [Transcribe con Whisper]
 
 ## 👨‍💻 Autor
 
-**Luis Miguel Moncada Ocampo - Ingeniero de Sistemas, Magister en Ingenieria de Software**
+**Luis Miguel Moncada Ocampo - Ingeniero de Sistemas, Magister en Ingenieria de Software. Colombia**
 - GitHub: [@luismiguelmoncada](https://github.com/luismiguelmoncada/TaniiaBotDatosAbiertos.git)
-- Proyecto: Taniia Bot DatosAbiertos por Zenzuite, una suite de soluciones.
+- Proyecto: Taniia Bot, concurso Datos Abiertos MINTIC. Realizado por Proyecto ZenZuite, una suite de soluciones.
 - Presentación: https://view.genially.com/69278690b1b05c3576151c06/presentation-tannia-bot-presentation.
 - Url Clientes: https://www.zenzuite.com/taniia
 
 ## 📄 Contacto
 
-luis05247@gmail.com.
+luis05247@gmail.com
 
 ---
 
