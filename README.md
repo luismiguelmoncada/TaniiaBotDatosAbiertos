@@ -1,6 +1,6 @@
 # 🤖 Taniia Bot - Agente Virtual de Turismo Inteligente
 
-![Texto alternativo](https://thoht.com.co/uploads/perfil/fotoPerfil/tannia.png)
+<img src="https://thoht.com.co/uploads/perfil/fotoPerfil/tannia.png" alt="Perfil Tannia" width="200" />
 
 Bot conversacional inteligente impulsado por GPT-4 que funciona como asistente virtual de turismo para WhatsApp. Taniia Bot proporciona información turística personalizada, recomendaciones de lugares y gestión de consultas en múltiples idiomas.
 
