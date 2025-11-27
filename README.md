@@ -1,10 +1,14 @@
 # 🤖 Taniia Bot - Agente Virtual de Turismo Inteligente
 
+![Texto alternativo](https://thoht.com.co/uploads/perfil/fotoPerfil/tannia.png)
+
 Bot conversacional inteligente impulsado por GPT-4 que funciona como asistente virtual de turismo para WhatsApp. Taniia Bot proporciona información turística personalizada, recomendaciones de lugares y gestión de consultas en múltiples idiomas.
 
 ## 📋 Descripción
 
 Taniia Bot es un agente conversacional basado en IA diseñado específicamente para el sector turístico de Chiquinquirá, Colombia pero expandible a todas las regiones. Utiliza GPT-4 de OpenAI para procesar lenguaje natural y Elasticsearch para búsquedas semánticas, ofreciendo respuestas contextuales e inteligentes sobre hoteles, restaurantes, sitios turísticos y más.
+
+
 
 ### ✨ Características Principales
 
